@@ -11,4 +11,4 @@ Here is the release history from the oldest version to the latest. Tags will be 
 
 ### February 12th, 2026 (260212)
 
-Initial release (unreleased)
+Initial release
