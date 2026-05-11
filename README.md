@@ -9,6 +9,11 @@ This repository is an issue tracker and release tracker repository for the offic
 
 Here is the release history from the oldest version to the latest. Tags will be created for each release.
 
+### May 11th, 2026 (260511)
+
+* Added ADT icon
+* Added Threadify icon
+
 ### April 6th, 2026 (260406)
 
 * Added ultra-wide monitor wallpapers, and base resolutions are:
