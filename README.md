@@ -9,6 +9,10 @@ This repository is an issue tracker and release tracker repository for the offic
 
 Here is the release history from the oldest version to the latest. Tags will be created for each release.
 
+### August 16th, 2026 (260816)
+
+* Added new Colorimetry icon
+
 ### May 11th, 2026 (260511)
 
 * Added ADT icon
